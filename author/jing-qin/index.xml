@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jing Qin | Chu Han</title>
+    <link>/author/jing-qin/</link>
+      <atom:link href="/author/jing-qin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jing Qin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jing Qin</title>
+      <link>/author/jing-qin/</link>
+    </image>
+    
+    <item>
+      <title>Example-Based Colourization Via Dense Encoding Pyramids</title>
+      <link>/publication/xiao-2020-example/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/xiao-2020-example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Age estimation via attribute-region association</title>
+      <link>/publication/chen-2019-age/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2019-age/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A learning-based multimodel integrated framework for dynamic traffic flow forecasting</title>
+      <link>/publication/zhou-2019-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/zhou-2019-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Duality in Visual Question-Driven Top-Down Saliency</title>
+      <link>/publication/he-2019-exploring/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/he-2019-exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$δ$-agree AdaBoost stacked autoencoder for short-term traffic flow forecasting</title>
+      <link>/publication/zhou-2017-delta/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zhou-2017-delta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

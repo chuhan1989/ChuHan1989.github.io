@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Chu Han</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>TENet: Triple Excitation Network for Video Salient Object Detection</title>
+      <link>/publication/su-2020-tenet/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/su-2020-tenet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Triple U-net: Hematoxylin-aware Nuclei Segmentation with Progressive Dense Feature Aggregation</title>
+      <link>/publication/zhao-2020-nuclei/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/zhao-2020-nuclei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Snapshot: Single Image Motion Expansion via Invertible Motion Embedding</title>
+      <link>/publication/zhu-2020-videosnapshot/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/zhu-2020-videosnapshot/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/H5UA5jH4BaQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>DeepAO: Efficient Screen Space Ambient Occlusion Generation via Deep Network</title>
+      <link>/publication/zhang-2020-deepao/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-2020-deepao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example-Based Colourization Via Dense Encoding Pyramids</title>
+      <link>/publication/xiao-2020-example/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/xiao-2020-example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Age estimation via attribute-region association</title>
+      <link>/publication/chen-2019-age/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2019-age/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A learning-based multimodel integrated framework for dynamic traffic flow forecasting</title>
+      <link>/publication/zhou-2019-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/zhou-2019-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep binocular tone mapping</title>
+      <link>/publication/zhang-2019-deep/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-2019-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Line Drawing Vectorization via Line Subdivision and Topology Reconstruction</title>
+      <link>/publication/guo-2019-deep/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/guo-2019-deep/</guid>
+      <description>
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-best-studuent-paper-award&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/publication/guo-2019-deep/bestpaper_hufd7dad69f8c681fab3ef1dbb54dc0bd6_1225810_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;Best studuent paper award&#34;&gt;
+
+
+  &lt;img data-src=&#34;/publication/guo-2019-deep/bestpaper_hufd7dad69f8c681fab3ef1dbb54dc0bd6_1225810_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2344&#34; height=&#34;1643&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Best studuent paper award
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring Duality in Visual Question-Driven Top-Down Saliency</title>
+      <link>/publication/he-2019-exploring/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/he-2019-exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep unsupervised pixelization</title>
+      <link>/publication/han-2018-deep/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/han-2018-deep/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;Papers_386.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TransHist: Occlusion-robust shape detection in cluttered images</title>
+      <link>/publication/han-2018-transhist/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/han-2018-transhist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$δ$-agree AdaBoost stacked autoencoder for short-term traffic flow forecasting</title>
+      <link>/publication/zhou-2017-delta/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zhou-2017-delta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pyramid of Arclength Descriptor for Generating Collage of Shapes</title>
+      <link>/publication/kwan-2016-pyramid/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/kwan-2016-pyramid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
