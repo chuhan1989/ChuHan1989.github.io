@@ -5,12 +5,28 @@
     <link>/author/shengfeng-he/</link>
       <atom:link href="/author/shengfeng-he/index.xml" rel="self" type="application/rss+xml" />
     <description>Shengfeng He*</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Shengfeng He*</title>
       <link>/author/shengfeng-he/</link>
     </image>
+    
+    <item>
+      <title>TENet: Triple Excitation Network for Video Salient Object Detection</title>
+      <link>/publication/su-2020-tenet/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/su-2020-tenet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transductive Zero-shot Action Recognition via Visually-connected Graph Convolutional Networks</title>
+      <link>/publication/xu-2020-action/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/xu-2020-action/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Video Snapshot: Single Image Motion Expansion via Invertible Motion Embedding</title>

@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xuemiao Xu* | Chu Han</title>
+    <title>Xuemiao Xu | Chu Han</title>
     <link>/author/xuemiao-xu/</link>
       <atom:link href="/author/xuemiao-xu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Xuemiao Xu*</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <description>Xuemiao Xu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Xuemiao Xu*</title>
+      <title>Xuemiao Xu</title>
       <link>/author/xuemiao-xu/</link>
     </image>
+    
+    <item>
+      <title>Transductive Zero-shot Action Recognition via Visually-connected Graph Convolutional Networks</title>
+      <link>/publication/xu-2020-action/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/xu-2020-action/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A learning-based multimodel integrated framework for dynamic traffic flow forecasting</title>
