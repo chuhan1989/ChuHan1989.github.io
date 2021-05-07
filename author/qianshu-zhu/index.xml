@@ -1,46 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Qianshu Zhu | Chu Han</title>
+    <title>Qianshu Zhu# | Chu Han</title>
     <link>/author/qianshu-zhu/</link>
       <atom:link href="/author/qianshu-zhu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Qianshu Zhu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <description>Qianshu Zhu#</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Qianshu Zhu</title>
+      <title>Qianshu Zhu#</title>
       <link>/author/qianshu-zhu/</link>
     </image>
     
     <item>
-      <title>Deep unsupervised pixelization</title>
-      <link>/publication/han-2018-deep/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/han-2018-deep/</guid>
+      <title>Video Snapshot: Single Image Motion Expansion via Invertible Motion Embedding</title>
+      <link>/publication/zhu-2020-videosnapshot/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/zhu-2020-videosnapshot/</guid>
       <description>
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;video controls &gt;
-  &lt;source src=&#34;Papers_386.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
-ame src=&#34;https://www.youtube.com/embed/H5UA5jH4BaQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/H5UA5jH4BaQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 </description>
