@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bingchao Zhao# | Chu Han</title>
+    <title>Bingchao Zhao | Chu Han</title>
     <link>/author/bingchao-zhao/</link>
       <atom:link href="/author/bingchao-zhao/index.xml" rel="self" type="application/rss+xml" />
-    <description>Bingchao Zhao#</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <description>Bingchao Zhao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Bingchao Zhao#</title>
+      <title>Bingchao Zhao</title>
       <link>/author/bingchao-zhao/</link>
     </image>
     
     <item>
-      <title>Triple U-net: Hematoxylin-aware Nuclei Segmentation with Progressive Dense Feature Aggregation</title>
-      <link>/publication/zhao-2020-nuclei/</link>
-      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/zhao-2020-nuclei/</guid>
+      <title>CNN-Based Fully Automatic Glioma Classification with Multi-modal Medical Images</title>
+      <link>/publication/zhao-2021-glioma/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/zhao-2021-glioma/</guid>
       <description></description>
     </item>
     
