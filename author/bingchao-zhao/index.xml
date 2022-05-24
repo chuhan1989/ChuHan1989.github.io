@@ -5,12 +5,28 @@
     <link>/author/bingchao-zhao/</link>
       <atom:link href="/author/bingchao-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Bingchao Zhao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Bingchao Zhao</title>
       <link>/author/bingchao-zhao/</link>
     </image>
+    
+    <item>
+      <title>Meta Multi-task Nuclei Segmentation with Fewer Training Samples</title>
+      <link>/publication/han-2022-metamtl/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/han-2022-metamtl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Layer Pseudo-Supervision for Histopathology Tissue Semantic Segmentation using Patch-level Classification Labels</title>
+      <link>/publication/han-2022-wsss/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/han-2022-wsss/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CNN-Based Fully Automatic Glioma Classification with Multi-modal Medical Images</title>

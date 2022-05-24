@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhenhui Li | Chu Han</title>
+    <link>/author/zhenhui-li/</link>
+      <atom:link href="/author/zhenhui-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhenhui Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Zhenhui Li</title>
+      <link>/author/zhenhui-li/</link>
+    </image>
+    
+    <item>
+      <title>Meta Multi-task Nuclei Segmentation with Fewer Training Samples</title>
+      <link>/publication/han-2022-metamtl/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/han-2022-metamtl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
