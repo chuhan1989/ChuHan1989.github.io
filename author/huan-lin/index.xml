@@ -5,12 +5,20 @@
     <link>/author/huan-lin/</link>
       <atom:link href="/author/huan-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Huan Lin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Huan Lin</title>
       <link>/author/huan-lin/</link>
     </image>
+    
+    <item>
+      <title>CKD-TransBTS: Clinical Knowledge-Driven Hybrid Transformer with Modality-Correlated Cross-Attention for Brain Tumor Segmentation</title>
+      <link>/publication/lin-2023-ckdtransbts/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/lin-2023-ckdtransbts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-Layer Pseudo-Supervision for Histopathology Tissue Semantic Segmentation using Patch-level Classification Labels</title>

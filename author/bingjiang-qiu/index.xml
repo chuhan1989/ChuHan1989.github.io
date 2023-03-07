@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bingjiang Qiu | Chu Han</title>
+    <link>/author/bingjiang-qiu/</link>
+      <atom:link href="/author/bingjiang-qiu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bingjiang Qiu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Bingjiang Qiu</title>
+      <link>/author/bingjiang-qiu/</link>
+    </image>
+    
+    <item>
+      <title>CKD-TransBTS: Clinical Knowledge-Driven Hybrid Transformer with Modality-Correlated Cross-Attention for Brain Tumor Segmentation</title>
+      <link>/publication/lin-2023-ckdtransbts/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/lin-2023-ckdtransbts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HoVer-Trans: Anatomy-aware HoVer-Transformer for ROI-free Breast Cancer Diagnosis in Ultrasound Images</title>
+      <link>/publication/mo-2023-hovertrans/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/mo-2023-hovertrans/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

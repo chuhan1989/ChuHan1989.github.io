@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Min Liu | Chu Han</title>
+    <link>/author/min-liu/</link>
+      <atom:link href="/author/min-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Min Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Min Liu</title>
+      <link>/author/min-liu/</link>
+    </image>
+    
+    <item>
+      <title>HoVer-Trans: Anatomy-aware HoVer-Transformer for ROI-free Breast Cancer Diagnosis in Ultrasound Images</title>
+      <link>/publication/mo-2023-hovertrans/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/mo-2023-hovertrans/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xin Chen, Bingbing Li | Chu Han</title>
+    <link>/author/xin-chen-bingbing-li/</link>
+      <atom:link href="/author/xin-chen-bingbing-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xin Chen, Bingbing Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Xin Chen, Bingbing Li</title>
+      <link>/author/xin-chen-bingbing-li/</link>
+    </image>
+    
+    <item>
+      <title>RestainNet: A self-supervised digital re-stainer for stain normalization</title>
+      <link>/publication/zhao-2022-restainnet/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/zhao-2022-restainnet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
